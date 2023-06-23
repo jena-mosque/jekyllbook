@@ -6,7 +6,7 @@ tagline:             'A Jekyll theme'
 url:                 https://ebetica.github.io/jekyllbook/
 baseurl:             '/jekyllbook'
 homepage_title:      Home
-default_lang:        'ar'
+default_lang:        'en'
 
 # About/contact
 author:
